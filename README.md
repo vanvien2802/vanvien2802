@@ -67,7 +67,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="" target="blank">
+  <a href="#" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="VieNguyen-blog" />
   </a>
   <a href="https://www.facebook.com/VienNg02" target="blank">
